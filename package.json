@@ -1,0 +1,14 @@
+{
+  "name": "peach",
+  "version": "1.0.0",
+  "description": "*** Memory Manager Class ***  Buffer Description  - For readability and simplicity, represented the buffer as an array.  - To mimic a 64 bit system, each index of the array represented a memory address of 8 bytes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.2.0"
+  }
+}
